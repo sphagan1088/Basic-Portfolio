@@ -1,0 +1,27 @@
+body {
+	background-color: white;
+	width:960px;
+}
+
+.container {
+    background-color:yellow;
+}
+
+#name {
+	background-color: #0E6224;
+	color: white;
+	float: left;
+
+}
+
+#links {
+	float: right;
+}
+
+#head2 {
+	color: #0E6224;
+}
+
+h2 { 
+	color: #0E6224;
+ }
