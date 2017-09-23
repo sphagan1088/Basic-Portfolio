@@ -1,27 +1,37 @@
 body {
 	background-color: white;
 	width:960px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-.container {
-    background-color:yellow;
-}
-
-#name {
-	background-color: #0E6224;
-	color: white;
+#container {
 	float: left;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: font-family: 'Georgia', Times, Times New Roman, serif;
 
 }
 
-#links {
-	float: right;
+
+
+a{
+	color: #777777;
+	text-decoration: none;
+
 }
+	
+
+
 
 #head2 {
-	color: #0E6224;
+	color: #4aaaa5;
+	clear: both;
 }
 
 h2 { 
-	color: #0E6224;
+	color: #ffffff;
  }
+
+
+
+
