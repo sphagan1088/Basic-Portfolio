@@ -9,9 +9,12 @@ body {
 h1 {
 	position: relative;
 	left:100px;
+	bottom:20px;
 	float: left;
 	padding-left: 30px;
 	padding-right: 30px;
+	padding-top: 20px;
+	padding-bottom: 22px;
 	background-color: #4aaaa5;
 	color: white;
 	font-family:  'Georgia', Times, Times New Roman, serif;
@@ -71,7 +74,7 @@ a {
 .section {
 
 	position: relative;
-	bottom:19.5px;
+	bottom:-1px;
 	width:960px;
 	height:712px;
 	background-image:url(../images/vintage-concrete.png);
@@ -83,15 +86,22 @@ h2 {
 	border-color:#cccccc;
 	border-style: solid;
 	position: relative;
-	top: 36px;
-	left: 100px;
+	padding-top: 35px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	top: 5px;
+	left: 70px;
 	background-color: #ffffff;
 	color: #4aaaa5;
 	clear: both;
 	width:650px;
-	height: 478px;
+	height: 350px;
 }
 
+img {
+	width:200px;
+	height: 200px;
+}
 
 
 
@@ -101,6 +111,13 @@ h3 {
  }
 
 .article {
+	position: relative;
+	bottom: 580px;
+	left:85px;
+	width:580px;
+	border-top-width:3px;
+	border-top-style: solid;
+	border-top-color: #cccccc;
 
 }
 
