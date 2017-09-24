@@ -6,7 +6,7 @@ body {
 
 }
 
-#container {
+h1 {
 	position: relative;
 	left:100px;
 	float: left;
@@ -28,29 +28,57 @@ nav {
 	border-bottom-style: solid;
 
 
-
-
 }
 
-a{
+a {	
+	font-size: 17px;
 	color: #777777;
-	text-decoration: none;
 	float: right;
 	padding-right: 25px;
 	text-align: center;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	text-decoration: none;
+}
+.p1 {
+	position: relative;
+	right:30px;
+	padding-top: 35px;
+	padding-left:5px;
 
 }
-	
-.lower {
 
+.p2 {
+	position: relative;
+	right:40px;
+	padding-top: 35px;
+	padding-right: 20px;
+	padding-left: 20px;
+
+
+	}
+
+.p3 {
+	position: relative;
+	right:40px;
+	padding-top: 35px;
+	padding-right: 20px;
+	
+	
+}
+
+
+	
+.section {
+
+	position: relative;
+	bottom:19.5px;
 	width:960px;
 	height:712px;
 	background-image:url(../images/vintage-concrete.png);
+	
 }
 
-
-
-#head2 {
+h2 {
 	border-width:2px;
 	border-color:#cccccc;
 	border-style: solid;
@@ -64,10 +92,16 @@ a{
 	height: 478px;
 }
 
-h2 { 
+
+
+
+
+h3 { 
 	color: #ffffff;
  }
 
+.article {
 
+}
 
 
