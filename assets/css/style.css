@@ -9,19 +9,22 @@ body {
 h1 {
 	position: relative;
 	left:100px;
-	bottom:20px;
+	bottom:-10px;
 	float: left;
-	padding-left: 30px;
-	padding-right: 30px;
+	padding-left: 40px;
+	padding-right: 40px;
 	padding-top: 20px;
-	padding-bottom: 22px;
+	padding-bottom: 30px;
 	background-color: #4aaaa5;
 	color: white;
 	font-family:  'Georgia', Times, Times New Roman, serif;
+	font-size: 30px;
 	
 }
 	
 nav {
+	position: relative;
+	top: 10px;
 	width:960px;
 	height: 80px;
 	text-align: center;
@@ -74,7 +77,7 @@ a {
 .section {
 
 	position: relative;
-	bottom:0px;
+	bottom: -10px;
 	width:960px;
 	height:540px;
 	background-image:url(../images/vintage-concrete.png);
@@ -106,7 +109,7 @@ h2 {
 	padding-top: 35px;
 	padding-left: 20px;
 	padding-bottom: 20px;
-	top: 5px;
+	top: 25px;
 	left: 70px;
 	background-color: #ffffff;
 	color: #4aaaa5;
@@ -132,6 +135,7 @@ img {
 h3 { 
 	text-align: center;
 	position: relative;
+	top: 1px;
 	color: #4aaaa5;
 	background-color: #ffffff;
 	width:200px;
@@ -153,7 +157,7 @@ h3 {
 
 aside {
 	position: relative;
-	bottom: 707px;
+	bottom: 664px;
 	right:60px;
 	background-color: #ffffff;
 	width: 250px;
@@ -193,7 +197,7 @@ footer {
 
 	text-align: center;
 	position: relative;
-	bottom: 450px;
+	bottom: 405px;
 	background-color: #666666;
 	width:960px;
 	height: 40px;
